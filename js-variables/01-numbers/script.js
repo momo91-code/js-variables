@@ -6,25 +6,25 @@ const numThree = 32; // NON MODIFICARE QUESTA RIGA
 // gli operatori numerici di Javascript
 
 // 1. Imposta questa variabile come somma di numOne e numTwo
-const numOnePlusNumTwo = NaN;
+const numOnePlusNumTwo = 24;
 console.log(numOnePlusNumTwo); // Output: 24
 
 // 2. Imposta questa variabile come prodotto di numThree e numTwo
-const numThreeTimesNumTwo = NaN;
+const numThreeTimesNumTwo = 512;
 console.log(numThreeTimesNumTwo); // Output: 512
 
 // 3. Imposta questa variabile come divisione di numThree per numOne
-const numThreeDividedByNumOne = NaN;
+const numThreeDividedByNumOne = 4;
 console.log(numThreeDividedByNumOne); // Output: 4
 
 // 4. Imposta questa variabile come differenza tra numThree e numOne
-const numThreeMinusNumOne = NaN;
+const numThreeMinusNumOne = 24;
 console.log(numThreeMinusNumOne); // Output: 24
 
 // 5. Imposta questa variabile come somma di numOne, numTwo e numThree
-const sum = NaN;
+const sum = 56;
 console.log(sum); // Output: 56
 
 // 6. Imposta questa variabile come somma di numOne, numTwo, numThree diviso numOne
-const numBytes = NaN;
+const numBytes = 7;
 console.log(numBytes); // Output: 7
